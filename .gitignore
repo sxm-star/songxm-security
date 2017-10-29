@@ -25,3 +25,11 @@ dist/
 nbdist/
 .nb-gradle/
 /.idea/
+/songxm-security-demo/target/
+/songxm-security-demo/songxm-security-demo.iml
+/songxm-security-core/target/
+/songxm-security-core/songxm-security-core.iml
+/songxm-security-browser/songxm-security-browser.iml
+/songxm-security-app/songxm-security-app.iml
+/songxm-security-app/target/
+/songxm-security-browser/target/
